@@ -1,0 +1,49 @@
+body
+{
+    background-color: darkorchid;
+    margin: 30px 200px 0px 500px;
+}
+.content
+{
+    border:solid red;
+    display: inline-block;
+    margin: inherit;
+    margin: 50px 500px 50px 100px;
+    text-align: center;
+}
+h1
+{
+    border:solid red;
+    margin-top: 1px;
+    text-align: center;
+    font-size: 48px;
+}
+
+.img
+{
+    margin-left: -100px;
+    width: 300px;
+    height: 300px;
+}
+.icon
+{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.price
+{
+    width: 400px;
+    height: 100px;
+}
+.search
+{
+    
+    margin-top: -220px;
+    margin-left: 500px;
+}
+.box
+{
+    width: 100px;
+    height: 100px;
+}
